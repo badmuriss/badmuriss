@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
-<h3 align="center">Software Developer | Java, Spring Boot, JavaScript</h3>
+<h3 align="center">Software Developer | Java, JavaScript, Azure</h3>
 
 <p align="center">
 🚀 Software Developer at Globant<br>
