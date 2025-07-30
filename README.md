@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
-<h3 align="center">Software Developer | Java, JavaScript, Azure</h3>
+<h3 align="center">Software Developer | Full-stack</h3>
 
 <p align="center">
 🚀 Software Developer at Globant<br>
@@ -26,5 +26,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badmuriss&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuriss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=badmuriss&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 ---
