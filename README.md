@@ -32,10 +32,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badmuriss&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badmuriss&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
