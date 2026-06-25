@@ -1,7 +1,7 @@
-# hey, i'm murilo 👋
+# hey, i'm murilo
 
-building cool things with tech, mostly full-stack & ai.
+building cool things with tech, mostly backend & ai.
 
 shipping fast, learning faster.
 
-`ts` · `react` · `node` · `python` · `cloudflare` · `supabase`
+`java` · `spring` · `quarkus` · `ai/llms` · `python` · `typescript`
